@@ -1,0 +1,14 @@
+C:\Users\KNIGH\Desktop\OOP\ClassTime\bin\Debug\ClassTime.exe.config
+C:\Users\KNIGH\Desktop\OOP\ClassTime\bin\Debug\ClassTime.exe
+C:\Users\KNIGH\Desktop\OOP\ClassTime\bin\Debug\ClassTime.pdb
+C:\Users\KNIGH\Desktop\OOP\ClassTime\obj\Debug\ClassTime.csprojAssemblyReference.cache
+C:\Users\KNIGH\Desktop\OOP\ClassTime\obj\Debug\ClassTime.csproj.CoreCompileInputs.cache
+C:\Users\KNIGH\Desktop\OOP\ClassTime\obj\Debug\ClassTime.exe
+C:\Users\KNIGH\Desktop\OOP\ClassTime\obj\Debug\ClassTime.pdb
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\bin\Debug\ClassTime.exe.config
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\bin\Debug\ClassTime.exe
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\bin\Debug\ClassTime.pdb
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\obj\Debug\ClassTime.csprojAssemblyReference.cache
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\obj\Debug\ClassTime.csproj.CoreCompileInputs.cache
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\obj\Debug\ClassTime.exe
+C:\Users\KNIGH\Desktop\OOP\TimeC#\ClassTime\obj\Debug\ClassTime.pdb
