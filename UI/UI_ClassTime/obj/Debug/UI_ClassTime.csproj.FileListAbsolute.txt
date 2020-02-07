@@ -1,7 +1,6 @@
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\bin\Debug\UI_ClassTime.exe.config
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\bin\Debug\UI_ClassTime.exe
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\bin\Debug\UI_ClassTime.pdb
-C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\bin\Debug\Time.xml
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\obj\Debug\UI_ClassTime.csprojAssemblyReference.cache
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\obj\Debug\UI_ClassTime.WinTime.resources
 C:\Users\KNIGH\Desktop\OOP\TimeC#\UI\UI_ClassTime\obj\Debug\UI_ClassTime.Properties.Resources.resources

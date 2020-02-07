@@ -99,15 +99,15 @@
 
             if (Res.second < 0)
             {
-                Res.second *= -1;
+                Res.second += 60;
                 Res.minute--;
             }
             if (Res.minute < 0)
             {
-                Res.minute *= -1;
+                Res.minute += 60;
                 Res.hour--;
             }
-            Res.hour = (sbyte)((Res.hour < 0) ? Res.hour * -1 : Res.hour);
+            Res.hour = (sbyte)((Res.hour < 0) ? Res.hour + 24 : Res.hour);
 
             return Res;
         }

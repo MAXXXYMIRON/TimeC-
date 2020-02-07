@@ -107,6 +107,9 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Sub_S(1);
             Res.Text = t1.ToString();
+            s1.Text = t1.Second.ToString();
+            m1.Text = t1.Minute.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void MiM_Click(object sender, EventArgs e)
@@ -114,6 +117,8 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Sub_M(1);
             Res.Text = t1.ToString();
+            m1.Text = t1.Minute.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void MiH_Click(object sender, EventArgs e)
@@ -121,6 +126,7 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Sub_H(1);
             Res.Text = t1.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void PlS_Click(object sender, EventArgs e)
@@ -128,6 +134,9 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Add_S(1);
             Res.Text = t1.ToString();
+            s1.Text = t1.Second.ToString();
+            m1.Text = t1.Minute.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void PlM_Click(object sender, EventArgs e)
@@ -135,6 +144,8 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Add_M(1);
             Res.Text = t1.ToString();
+            m1.Text = t1.Minute.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void PlH_Click(object sender, EventArgs e)
@@ -142,30 +153,31 @@ namespace UI_ClassTime
             if (MakeVarTime())
                 t1.Add_H(1);
             Res.Text = t1.ToString();
+            h1.Text = t1.Hour.ToString();
         }
 
         private void ToS_Click(object sender, EventArgs e)
         {
             if (MakeVarTime())
-                Res.Text = t1.ToSecond().ToString();
+                Res.Text = t1.ToSecond().ToString() + "s";
         }
 
         private void ToM_Click(object sender, EventArgs e)
         {
             if (MakeVarTime())
-                Res.Text = t1.ToMinute().ToString();
+                Res.Text = t1.ToMinute().ToString() + "m";
         }
 
         private void ToH_Click(object sender, EventArgs e)
         {
             if (MakeVarTime())
-                Res.Text = t1.ToHour().ToString();
+                Res.Text = t1.ToHour().ToString() + "h";
         }
 
         private void Minuse_Click(object sender, EventArgs e)
         {
             if (MakeVarsTime())
-                Res.Text = (t1 + t2).ToString();
+                Res.Text = (t1 - t2).ToString();
         }
 
         private void Pluse_Click(object sender, EventArgs e)

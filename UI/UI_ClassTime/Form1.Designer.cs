@@ -267,9 +267,10 @@
             // Res
             // 
             this.Res.AutoSize = true;
-            this.Res.Location = new System.Drawing.Point(146, 150);
+            this.Res.Font = new System.Drawing.Font("MS Reference Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Res.Location = new System.Drawing.Point(113, 150);
             this.Res.Name = "Res";
-            this.Res.Size = new System.Drawing.Size(0, 13);
+            this.Res.Size = new System.Drawing.Size(0, 26);
             this.Res.TabIndex = 23;
             // 
             // WinTime
